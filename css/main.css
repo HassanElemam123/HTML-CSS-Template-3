@@ -1614,7 +1614,7 @@ textarea.input {
   transition: var(--main-transition);
 }
 .footer .box:nth-child(1) .social .facebook:hover {
-  background-color: #1877f2;
+  background-color: #3b5998;
 }
 .footer .box:nth-child(1) .social .twitter:hover {
   background-color: #1da1f2;
